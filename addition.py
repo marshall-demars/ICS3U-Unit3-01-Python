@@ -19,7 +19,7 @@ def main():
     sum = integer_one + integer_two
 
     # output
-    print("\nSum is {}." .format(sum))
+    print("\nSum is {}.".format(sum))
 
     print("\nDone.")
 
