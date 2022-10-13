@@ -20,13 +20,11 @@ def main():
 
     # output
     print(
-        "\nSum is {0:,} + {1:,} = {2:,}.".format(
-            integer_one, integer_two, sum
-        )
-    )
+        "\nSum is {0:,} + {1:,} = {2:,}.".format(integer_one, integer_two, sum))
 
 
-    print("\nDone.")
+    print(
+        "\nDone.")
 
 
 if __name__ == "__main__":
